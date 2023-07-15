@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TestAccessKey (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TestAccessKey (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
